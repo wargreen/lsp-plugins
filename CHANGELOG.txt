@@ -4,7 +4,7 @@
 
 === 1.1.30 ===
 
-* Implemented Oscilloscope plugin series: x1, x2 and x4. UX design by Boris Gotsulenko.
+* Implemented Oscilloscope plugin series: x1, x2 and x4. UX design by bor-T.
 * Added data streaming port support to plugin framework.
 * Added strobe feature to mesh primitives that allows to draw
   multiple streamed meshes together.
